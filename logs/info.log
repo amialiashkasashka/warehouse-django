@@ -303,3 +303,93 @@ INFO 2020-06-15 16:15:00,174 basehttp 62384 "POST /accounts/contacting HTTP/1.1"
 INFO 2020-06-15 16:15:00,189 basehttp 62384 "GET /accounts/login/?next=/accounts/contacting HTTP/1.1" 200 1258
 INFO 2020-06-15 16:55:21,809 autoreload 62384 /Users/aleksandramialiashka/Documents/Programming/MaximProject/Warehouse/settings.py changed, reloading.
 INFO 2020-06-15 16:55:22,808 autoreload 63167 Watching for file changes with StatReloader
+INFO 2020-06-23 17:37:35,147 autoreload 7051 Watching for file changes with StatReloader
+INFO 2020-06-23 17:37:56,993 autoreload 7090 Watching for file changes with StatReloader
+INFO 2020-06-23 17:38:01,271 basehttp 7090 "GET / HTTP/1.1" 200 29282
+INFO 2020-06-23 17:38:01,379 basehttp 7090 "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+INFO 2020-06-23 17:38:01,386 basehttp 7090 "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+INFO 2020-06-23 17:38:01,386 basehttp 7090 "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+INFO 2020-06-23 17:38:01,388 basehttp 7090 "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+INFO 2020-06-23 17:38:01,389 basehttp 7090 "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+INFO 2020-06-23 17:38:01,392 basehttp 7090 "GET /static/css/bootstrap.min.css HTTP/1.1" 200 160367
+INFO 2020-06-23 17:38:01,404 basehttp 7090 "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+INFO 2020-06-23 17:38:01,409 basehttp 7090 "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1279
+INFO 2020-06-23 17:38:01,412 basehttp 7090 "GET /static/css/style.css HTTP/1.1" 200 52935
+INFO 2020-06-23 17:38:01,423 basehttp 7090 "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+INFO 2020-06-23 17:38:01,424 basehttp 7090 "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+INFO 2020-06-23 17:38:01,431 basehttp 7090 "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+INFO 2020-06-23 17:38:01,434 basehttp 7090 "GET /static/css/aos.css HTTP/1.1" 200 25983
+INFO 2020-06-23 17:38:01,437 basehttp 7090 "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+INFO 2020-06-23 17:38:01,443 basehttp 7090 "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+INFO 2020-06-23 17:38:01,458 basehttp 7090 "GET /static/js/jquery.countdown.min.js HTTP/1.1" 200 5339
+INFO 2020-06-23 17:38:01,459 basehttp 7090 "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+INFO 2020-06-23 17:38:01,462 basehttp 7090 "GET /static/js/bootstrap-datepicker.min.js HTTP/1.1" 200 34172
+INFO 2020-06-23 17:38:01,466 basehttp 7090 "GET /static/js/aos.js HTTP/1.1" 200 14244
+INFO 2020-06-23 17:38:01,482 basehttp 7090 "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+INFO 2020-06-23 17:38:01,501 basehttp 7090 "GET /static/js/alerts.js HTTP/1.1" 200 69
+INFO 2020-06-23 17:38:01,507 basehttp 7090 "GET /static/js/main.js HTTP/1.1" 200 6637
+INFO 2020-06-23 17:38:01,508 basehttp 7090 "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+INFO 2020-06-23 17:38:01,517 basehttp 7090 "GET /images/photos/2020/06/06/property_1.jpg HTTP/1.1" 200 203191
+INFO 2020-06-23 17:38:01,520 basehttp 7090 "GET /images/photos/2020/06/06/property_5_OUxaJQ9.jpg HTTP/1.1" 200 134517
+INFO 2020-06-23 17:38:01,523 basehttp 7090 "GET /images/photos/2020/06/06/property_3_LOMl3fc.jpg HTTP/1.1" 200 119111
+INFO 2020-06-23 17:38:01,532 basehttp 7090 "GET /images/photos/2020/06/06/property_2_Yg5Lxnf.jpg HTTP/1.1" 200 110094
+INFO 2020-06-23 17:38:01,542 basehttp 7090 "GET /images/photos/2020/06/06/property_1_E1PaXqa.jpg HTTP/1.1" 200 203191
+INFO 2020-06-23 17:38:01,550 basehttp 7090 "GET /images/photos/2020/06/07/person_2.jpg HTTP/1.1" 200 52421
+INFO 2020-06-23 17:38:01,568 basehttp 7090 "GET /images/photos/2020/06/07/person_1.jpg HTTP/1.1" 200 66206
+INFO 2020-06-23 17:38:01,568 basehttp 7090 "GET /images/photos/2020/06/07/person_3.jpg HTTP/1.1" 200 54835
+INFO 2020-06-23 17:38:01,571 basehttp 7090 "GET /static/images/img_1.jpg HTTP/1.1" 200 69273
+INFO 2020-06-23 17:38:01,586 basehttp 7090 "GET /static/images/img_2.jpg HTTP/1.1" 200 50358
+INFO 2020-06-23 17:38:01,603 basehttp 7090 "GET /static/images/img_3.jpg HTTP/1.1" 200 29439
+INFO 2020-06-23 17:38:01,614 basehttp 7090 "GET /images/photos/2020/06/07/person_2_Uqh5wCi.jpg HTTP/1.1" 200 52421
+INFO 2020-06-23 17:38:01,615 basehttp 7090 "GET /images/photos/2020/06/07/person_1_vsne0dP.jpg HTTP/1.1" 200 66206
+INFO 2020-06-23 17:38:01,623 basehttp 7090 "GET /images/photos/2020/06/07/person_2_fcLofXX.jpg HTTP/1.1" 200 52421
+INFO 2020-06-23 17:38:01,632 basehttp 7090 "GET /images/photos/2020/06/07/person_3_H4sSDhn.jpg HTTP/1.1" 200 54835
+INFO 2020-06-23 17:38:01,956 basehttp 7090 "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+INFO 2020-06-23 17:38:01,957 basehttp 7090 "GET /static/fonts/flaticon/font/Flaticon.woff2 HTTP/1.1" 200 1724
+INFO 2020-06-23 17:38:02,187 basehttp 7090 "GET /static/images/hero_1.jpg HTTP/1.1" 200 221599
+INFO 2020-06-23 17:38:02,188 basehttp 7090 "GET /static/images/hero_2.jpg HTTP/1.1" 200 280918
+WARNING 2020-06-23 17:38:02,578 log 7090 Not Found: /favicon.ico
+WARNING 2020-06-23 17:38:02,578 basehttp 7090 "GET /favicon.ico HTTP/1.1" 404 2924
+INFO 2020-06-23 17:38:09,751 basehttp 7090 "GET /accounts/login/ HTTP/1.1" 200 1258
+INFO 2020-06-23 17:38:09,788 basehttp 7090 "GET /static/css/login.css HTTP/1.1" 200 1943
+INFO 2020-06-23 17:38:09,802 basehttp 7090 "GET /static/js/login.js HTTP/1.1" 200 108
+INFO 2020-06-23 17:38:09,814 basehttp 7090 "GET /static/css/accounts/style.css HTTP/1.1" 200 256627
+INFO 2020-06-23 17:38:09,817 basehttp 7090 "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+INFO 2020-06-23 17:43:06,378 autoreload 7090 /Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/__init__.py changed, reloading.
+INFO 2020-06-23 17:43:07,682 autoreload 7178 Watching for file changes with StatReloader
+INFO 2020-06-23 17:44:01,992 autoreload 7178 /Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/__init__.py changed, reloading.
+INFO 2020-06-23 17:44:02,588 autoreload 7193 Watching for file changes with StatReloader
+INFO 2020-06-23 17:44:04,153 autoreload 7193 /Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/views.py changed, reloading.
+INFO 2020-06-23 17:44:04,842 autoreload 7204 Watching for file changes with StatReloader
+INFO 2020-06-23 17:44:13,832 basehttp 7204 "GET / HTTP/1.1" 200 29282
+INFO 2020-06-23 17:44:16,413 basehttp 7204 "GET /accounts/login/ HTTP/1.1" 200 1258
+ERROR 2020-06-23 17:44:21,040 log 7204 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/views.py", line 30, in login
+    logger.warning('invalid username/password')
+NameError: name 'logger' is not defined
+ERROR 2020-06-23 17:44:21,043 basehttp 7204 "POST /accounts/login/ HTTP/1.1" 500 67802
+INFO 2020-06-23 17:50:00,203 autoreload 7204 /Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/__init__.py changed, reloading.
+INFO 2020-06-23 17:50:01,404 autoreload 7257 Watching for file changes with StatReloader
+INFO 2020-06-23 17:50:05,894 basehttp 7257 "GET /accounts/login/ HTTP/1.1" 200 1546
+INFO 2020-06-23 17:50:07,859 basehttp 7257 "GET /accounts/login/ HTTP/1.1" 200 1258
+ERROR 2020-06-23 17:50:11,500 log 7257 Internal Server Error: /accounts/login/
+Traceback (most recent call last):
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/venv/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/views.py", line 30, in login
+    logger.warning('invalid username/password')
+NameError: name 'logger' is not defined
+ERROR 2020-06-23 17:50:11,502 basehttp 7257 "POST /accounts/login/ HTTP/1.1" 500 67812
+INFO 2020-06-23 17:50:19,439 autoreload 7257 /Users/aleksandramialiashka/Documents/Programming/MaximProject/accounts/__init__.py changed, reloading.
+INFO 2020-06-23 17:50:20,669 autoreload 7285 Watching for file changes with StatReloader

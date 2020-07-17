@@ -11,7 +11,7 @@ import logging, traceback
 
 
 # Create your views here.
-logger = logging.getLogger('django')
+
 
 def login(request):
     if request.method == 'POST':
